@@ -1,4 +1,4 @@
-# Lesson 2.1 - HTML Tags
+# Lesson 2.1: HTML Tags
 
 This guide will help you understand the basic structure and common tags used in HTML. By understanding these concepts, you'll be well on your way to creating your own web pages 💪
 

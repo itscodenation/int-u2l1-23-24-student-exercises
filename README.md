@@ -5,7 +5,6 @@ This guide will help you understand the basic structure and common tags used in 
 ## Table of Contents
 - [HTML Document Structure](#html-document-structure)
 - [Headers and Paragraphs](#headers-and-paragraphs)
-- [Lists](#lists)
 - [Semantic Elements](#semantic-elements)
 
 ## HTML Document Structure
@@ -30,6 +29,9 @@ Headers and paragraphs are used to structure and style the text on your webpage:
 
 
 ## Semantic Elements
+
+*Note: these concepts will not be covered this year, but it is good to familiarize yourself with them. *
+
 Semantic elements bring meaning to your HTML structure, helping both the user and the search engine understand the content of different parts of your webpage:
 
 - `<header>`: This tag is used for the container of introductory content or a set of navigational links. You would usually place your site logo and main navigation menu inside the `<header>`.

@@ -30,7 +30,7 @@ Headers and paragraphs are used to structure and style the text on your webpage:
 
 ## Semantic Elements
 
-*Note: these concepts will not be covered this year, but it is good to familiarize yourself with them. *
+*Note: these concepts will not be covered this year, but it is good to familiarize yourself with them.*
 
 Semantic elements bring meaning to your HTML structure, helping both the user and the search engine understand the content of different parts of your webpage:
 

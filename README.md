@@ -1,46 +1,66 @@
-# Lesson 2.1: HTML Tags - Coding Exercises
+# Lesson 2.1: HTML Introduction
 
-This guide will help you understand the basic structure and common tags used in HTML. By understanding these concepts, you'll be well on your way to creating your own web pages 💪
+### 🎯 Objectives
+- Understand the purpose and structure of HTML.
+- Create HTML tags on a webpage.
 
 ## Table of Contents
-- [HTML Document Structure](#html-document-structure)
-- [Headers and Paragraphs](#headers-and-paragraphs)
-- [Semantic Elements](#semantic-elements)
 
-## HTML Document Structure
-An HTML document follows a specific structure, encompassing the following main components:
+1. [Getting Started](#getting-started)
+2. [Do Now](#do-now)
+3. [HTML Tags Introduction](#html-tags-introduction)
+4. [Code Along](#code-along)
+5. [Code Solo](#code-solo)
+6. [Exit Ticket & Closing](#exit-ticket-closing)
 
-- `<!DOCTYPE html>`: This isn't an HTML tag per se, but it's a crucial part of every HTML file. It instructs the web browser about the HTML version being used in the document.
+## Getting Started
 
-- `<html>`: This is the root element of your HTML page. It contains all other HTML elements (tags).
+- Login to Google Classroom for today’s lesson.
+- Fork today’s exercises from GitHub.
 
-- `<head>`: This tag is used to include non-visual information about the webpage, like meta-information, links to CSS stylesheets, and JavaScript files.
+## Do Now
 
-- `<title>`: The title tag defines the title of the webpage, which is displayed on the tab bar of the browser.
+After opening the index.html file and completing the tasks, be ready to discuss the following:
 
-- `<body>`: This is where you'll include the main content of your webpage, such as text, images, videos, links, tables, lists, and more.
+1. What happened when you added text to the code? Where did it show up?
+2. What was different about the text between the `<h1>`’s and the `<p>`’s?
 
-## Headers and Paragraphs
-Headers and paragraphs are used to structure and style the text on your webpage:
+## HTML Tags Introduction
 
-- `<h1>` to `<h6>`: HTML provides six different levels of headings to structure your content. `<h1>` is the highest level (usually the most important and largest text), and `<h6>` is the lowest.
+HTML is a computer language that is used to create the structure for web pages on the internet. Like humans, computers understand many languages, and today, we'll dive into HTML (HyperText Markup Language), which is used on virtually every website you visit!
 
-- `<p>`: The paragraph tag is used to display blocks of text. The browser automatically adds some margin before and after a paragraph for better readability.
+HTML is created with tags using angle brackets. The tag name goes inside the bracket. Closing tags go at the end of your content and need a slash before the tag name.
 
+There are over 100 HTML tags that allow you to add various elements to a webpage like headers, images, links, lists, videos, and more.
 
-## Semantic Elements
+Here are some HTML tags we'll practice today:
 
-*Note: these concepts will not be covered this year, but it is good to familiarize yourself with them.*
+- Paragraph: `<p> </p>`
+- Headings: `<h1> </h1>` (up to `<h6> </h6>`)
+- Button: `<button> </button>`
+- Ordered List: `<ol> </ol>`
+- Unordered List: `<ul> </ul>`
+- List Item: `<li> </li>`
+- Break: `<br>`
+- Input: `<input>`
 
-Semantic elements bring meaning to your HTML structure, helping both the user and the search engine understand the content of different parts of your webpage:
+Remember, if you want content to show up on the webpage, it MUST be nested inside the `<body>` tag.
 
-- `<header>`: This tag is used for the container of introductory content or a set of navigational links. You would usually place your site logo and main navigation menu inside the `<header>`.
+## Code Along
 
-- `<footer>`: The `<footer>` tag is used to define the bottom of a webpage or a section. It typically contains information about the author, copyright notices, links to privacy policy, etc.
+Open the `code-along.html` file and complete the tasks. As I write code, make sure you are writing along with me. 
 
-- `<article>`: This tag represents an independent, self-contained block of related content. For example, a blog post or a user comment can be put inside an `<article>` tag.
+## Code Solo
 
-- `<section>`: The `<section>` tag is used to group related content together, often introduced by a heading. It helps to structure the webpage in a meaningful way.
+Next, open the `code-solo.html` file and complete the tasks. Again, as I write code, you should also be writing along with me.
+
+## Exit Ticket & Closing
+
+For your Exit Ticket today, please upload a link to your updated project and post it to Google Classroom.
+
+---
+
+Thank you for your dedication and hard work in today's session! Keep practicing and don't hesitate to ask questions. We're excited to see your progress in Code Nation!
 
 
 

@@ -1,4 +1,4 @@
-# Lesson 2.1: HTML Introduction
+# Lesson 2.1: HTML Tags
 
 ### 🎯 Objectives
 - Understand the purpose and structure of HTML.
